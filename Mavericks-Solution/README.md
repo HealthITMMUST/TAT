@@ -111,10 +111,7 @@ Add notes about how to use the system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
-who participated in this project.
+- [@Samora Machel](https://github.com/SamoraMachel) - Idea & Initial work
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
